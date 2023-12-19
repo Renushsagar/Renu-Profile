@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Renu Sharma
 - 👀 I’m interested in Data Science/Data Analyst/Data Analytics/Machine Learning
-- 🌱 I’m currently learning Data Science
+- 🌱 I have completed few interships related Data Science, Machine Learning and SQL done few projects as well
 - 💞️ I’m looking to collaborate on Full Time Job Opportunity in Data Science Field
 - 📫 How to reach me renusagar1105@gmail.com
 
